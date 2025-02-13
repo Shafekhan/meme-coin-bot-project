@@ -34,7 +34,7 @@ A automated trading bot for detecting and trading meme coins on Solana blockchai
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Shafekhan/meme-coin-bot
+git clone https://github.com/Shafekhan/meme-coin-bot-project
 ```
 
 2. Install dependencies
